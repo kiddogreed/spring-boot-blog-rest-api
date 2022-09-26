@@ -25,3 +25,24 @@ private int pageSize;<br>
 private long totalElements;<br>
 private int totalPages;<br>
 private boolean last;<br>
+
+maven or gradle mapper dependency
+https://mvnrepository.com/artifact/org.modelmapper/modelmapper
+
+
+
+<br>
+Create custom exception
+
+<br>
+create payload class ErrorDetails
+create constructor and getters
+
+create exception class globalExceptionHandler and annotate
+
+add validator 
+
+add validator dependency
+https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-validation/2.7.4
+
+add validation on postDTO
