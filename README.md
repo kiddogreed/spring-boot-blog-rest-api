@@ -18,6 +18,9 @@ endpoints:<br>
 *Get* (baseUrl/api/posts/id) = get 1 post with id<br>
 *Put*(baseUrl/api/posts/id) = update 1 post using id
 
+<BR>
+USING CURL<br>ex:<br>
+<curl --location --request GET 'http://localhost:8082/api/posts'
 
 Pagination:<br>
 private List<Post> content;<br>
@@ -28,7 +31,7 @@ private int totalPages;<br>
 private boolean last;<br>
 
 maven or gradle mapper dependency
-https://mvnrepository.com/artifact/org.modelmapper/modelmapper
+https://mvnrepository.com/artifact/org.modelmapper/modelmapper>
 
 
 
