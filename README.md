@@ -6,7 +6,8 @@ tips in writing method in springboot  restapi<br>
 1.create and extend repositories<br>
 2.create method on service<br>
 3.create implementation from impl folder<br>
-4.import repository in service impl then generate constructor<br>5.create convertion entity to dto viseVersa<br>
+4.import repository in service impl then generate constructor<br>
+5.create convertion entity to dto viseVersa<br>
 6.implement rest method on controller
 
 
